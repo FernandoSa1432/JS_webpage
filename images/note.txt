@@ -1,0 +1,4 @@
+Faltan imagenes por colocar dentro de esta carpeta
+Se necesitan llamar como en el html o de lo contrario pues modificar el nombre dentro de las 
+etiquetas en el html por el nombre de la imagen.
+
